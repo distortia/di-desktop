@@ -1,6 +1,7 @@
 ### Sass template
 .sass-cache/
 *.css.map
+style.css
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
 
